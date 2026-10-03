@@ -164,7 +164,7 @@ WEBINAR_SESSIONS = [
 
 
    {
-        "title": "pro class 2",
+        "title": "pro class 3",
         "desc": "",
         "topics": [
             "",
@@ -176,7 +176,7 @@ WEBINAR_SESSIONS = [
     },
 
   {
-        "title": "pro class 2",
+        "title": "pro class 4",
         "desc": "",
         "topics": [
             "",
