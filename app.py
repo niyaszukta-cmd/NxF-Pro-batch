@@ -571,7 +571,7 @@ def landing() -> None:
           <div class="hero-brand-kicker"><span class="pulse"></span>
             NYZTRADE FINANCIAL SOLUTIONS · EQUITY MARKET EDUCATION
           </div>
-          <h1 class="hero-title">A working method for <span class="brand-gradient">trading Indian equities</span></h1>
+          <h1 class="hero-title">Professional trading strategies for <span class="brand-gradient">trading in Indian equities</span></h1>
           <div class="brand-positioning">
             Research-backed thinking. <span>Chart-based execution.</span> Practical risk management.
           </div>
