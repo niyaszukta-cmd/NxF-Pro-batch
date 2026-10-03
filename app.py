@@ -148,6 +148,45 @@ WEBINAR_SESSIONS = [
         "embed": '<iframe src="https://veed.io/embed/a38b2633-a821-4d99-8c20-ed9982d7cb6d?watermark=0&color=&sharing=0&title=0" width="744" height="504" frameborder="0" title="Pro batch 2 class 1 INtro" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>'
 ,
     },
+
+
+   {
+        "title": "pro class 2",
+        "desc": "",
+        "topics": [
+            "",
+            "",
+            "",
+        ],
+        "embed": '<iframe src="https://veed.io/embed/8f800e50-2906-4340-87db-d8df158804b3?watermark=0&color=&sharing=0&title=0" width="744" height="504" frameborder="0" title="Screen Recording - Sep 3, 2026" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>'
+,
+    },
+
+
+   {
+        "title": "pro class 2",
+        "desc": "",
+        "topics": [
+            "",
+            "",
+            "",
+        ],
+        "embed": '<iframe src="https://veed.io/embed/9f8e3450-57e3-42e1-9a22-63ca463855c0?watermark=0&color=&sharing=0&title=1" width="744" height="504" frameborder="0" title="pro be4 LQ" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>'
+,
+    },
+
+  {
+        "title": "pro class 2",
+        "desc": "",
+        "topics": [
+            "",
+            "",
+            "",
+        ],
+        "embed": '<iframe src="https://veed.io/embed/07d34172-0c3e-4f07-8c2f-537c58fb8037?watermark=0&color=&sharing=0&title=1" width="744" height="504" frameborder="0" title="pro after LQ" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>'
+,
+    },
+
 ]
 
 # Price action behind the landing-page graphic: (open, high, low, close, volume).
