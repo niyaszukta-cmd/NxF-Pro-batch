@@ -136,6 +136,18 @@ WEBINAR_SESSIONS = [
         "embed": '<iframe src="https://www.veed.io/embed/d8e8e28b-db85-4da7-b9d7-3385f2ffacab?watermark=0&color=&sharing=0&title=0" width="744" height="504" frameborder="0" title="Niyas N&#39;s Video - Sep 16, 2026" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>'
 ,
     },
+
+  {
+        "title": "pro class 1",
+        "desc": "",
+        "topics": [
+            "",
+            "",
+            "",
+        ],
+        "embed": '<iframe src="https://veed.io/embed/a38b2633-a821-4d99-8c20-ed9982d7cb6d?watermark=0&color=&sharing=0&title=0" width="744" height="504" frameborder="0" title="Pro batch 2 class 1 INtro" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>'
+,
+    },
 ]
 
 # Price action behind the landing-page graphic: (open, high, low, close, volume).
